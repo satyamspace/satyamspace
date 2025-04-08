@@ -42,11 +42,6 @@
 ## 🎓 Certifications
 [![Esri Certified Professional](https://img.shields.io/badge/Esri%20Certified%20Professional-blue?style=flat&logo=esri&logoColor=white)](https://www.linkedin.com/in/satyamshah/)
 
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=satyamspace&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=satyamspace&theme=dracula&hide_border=false)<br/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=satyamspace&icon=0&color=0)](https://visitcount.itsvg.in)
 
